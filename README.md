@@ -1,1 +1,1 @@
-# Heap-and-Queues
+# Heaps-and-Queues
